@@ -1,2 +1,76 @@
-# asha-portfolio
-Personal portfolio website showcasing my experience as a Senior .NET Developer, skills, projects, and professional background.
+
+# Asha Chacko Vemparambil - Portfolio Website
+
+Welcome to my personal portfolio website.
+
+This portfolio showcases my professional experience, technical skills, projects, and background as a Senior .NET Developer with experience in enterprise applications, Azure cloud solutions, and SAP S/4HANA transformation projects.
+
+## 🌐 Live Website
+
+https://purple-pebble-0cce97500.7.azurestaticapps.net/
+
+## 👩‍💻 About Me
+
+I am a Senior .NET Developer with 7+ years of experience designing and delivering scalable enterprise applications using:
+
+- C#
+- .NET Core
+- ASP.NET MVC
+- Web API
+- SQL Server
+- Azure Cloud Services
+- React
+- TypeScript
+
+I have experience working on large-scale enterprise projects, including SAP ECC to S/4HANA migration testing and application development.
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Backend Experience
+- C#
+- .NET Core
+- ASP.NET MVC
+- REST APIs
+
+### Cloud & Tools
+- Microsoft Azure
+- Azure DevOps
+- GitHub
+
+### Databases
+- SQL Server
+- Azure Cosmos DB
+
+## ✨ Portfolio Features
+
+- Responsive one-page design
+- About section
+- Skills overview
+- Professional experience
+- Project showcase
+- Resume download
+- Contact section
+
+## 🚀 Running Locally
+
+Clone the repository:
+
+git clone https://github.com/ashacv17/asha-portfolio.git
+Navigate to the project folder:cd asha-portfolio
+Install dependencies:npm install
+Run development server:npm run dev
+
+📬 Contact
+
+📧 ashacv17@gmail.com
+📱 +61 499254910
+LinkedIn:
+https://linkedin.com/in/asha-prince
+GitHub:
+https://github.com/ashacv17
