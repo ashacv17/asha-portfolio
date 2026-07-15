@@ -62,15 +62,21 @@ I have experience working on large-scale enterprise projects, including SAP ECC 
 Clone the repository:
 
 git clone https://github.com/ashacv17/asha-portfolio.git
+
 Navigate to the project folder:cd asha-portfolio
+
 Install dependencies:npm install
+
 Run development server:npm run dev
 
 📬 Contact
 
 📧 ashacv17@gmail.com
+
 📱 +61 499254910
+
 LinkedIn:
 https://linkedin.com/in/asha-prince
+
 GitHub:
 https://github.com/ashacv17
